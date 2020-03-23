@@ -1,0 +1,35 @@
+body{
+    background-color: #262626;
+    margin: 0px;
+    background-image: url("imgs/merged.png");
+}
+
+.wrapper{
+   margin: auto;
+   width: 1200px;
+}
+
+.title{
+    color: #e8e8e8;
+    font-family: 'Oxygen', sans-serif;
+    font-style: normal;
+    font-size: 120px;
+    margin:20px;
+}
+
+.line{
+    color: #e8e8e8;
+    width: 92%;
+    height: 5px;
+    background-color: #e8e8e8;
+}
+
+.body1{
+    font-family: 'Merriweather', serif;
+    color: #e8e8e8;
+    font-size: 20px;
+    width: 480px;
+    margin-top: 35px;
+    margin-left: 25px;
+    line-height: 30px;
+}
